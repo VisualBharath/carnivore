@@ -1,0 +1,6 @@
+{
+  "name": "CarnivoreRoute",
+  "description": "High-conviction non-veg restaurant discovery and traffic-aware visit planner powered by Google Maps Platform and Gemini AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
